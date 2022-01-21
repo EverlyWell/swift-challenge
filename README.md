@@ -1,5 +1,5 @@
 <p align="center">
-<img src="everlyhealth.svg">
+<img src="everlyhealth.svg" width="300">
 </p>
 
 # Everly Health iOS interview demo project
